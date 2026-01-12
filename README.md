@@ -9,6 +9,9 @@ Example:
 
 You are developing an AI scientist system. Currently, a lot of the work there is reading traces, noticing failure modes, then thinking of and testing patches. It seems plausible that current frontier LLMs (Eg Opus 4.5) could automate a substantial part of this. If you have a robust ground truth benchmark (even just the user saying "this output is bad because xyz", that should be enough to optimize an agentic system to do well on it.
 
+## Possible simple implimentation:
+- Just edit GEPA to be able to mod the full harness + workflow
+
 NOTE: This could be applied recursively?
 
 **α** = optimizer (given benchmark, optimize agent)
