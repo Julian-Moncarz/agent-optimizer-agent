@@ -1,7 +1,7 @@
 # agent-optimizer-agent
 # Agent Optimizer Agent
 
-A large fraction of current AIS work is optimizing an agentic system for some benchmark by hand. DSPy automates prompt optimization. We should create something similar for agent optimization. Given benchmark and intent, optimize agentic system.
+A large fraction of current ai dev work is optimizing an agentic system for some benchmark by hand. DSPy automates prompt optimization. We should create something similar for agent optimization. Given benchmark and intent, optimize agentic system.
 
 RL already optimizes models and DSPy optimizes agents - this tool would optimize the larger above: agent harnesses and workflow / multi agent system design.
 
